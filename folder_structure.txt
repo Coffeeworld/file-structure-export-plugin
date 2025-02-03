@@ -1,0 +1,5 @@
+file-structure-export-plugin
+├───test
+├───folder_structure.txt
+├───icon.svg
+└───project.godot
